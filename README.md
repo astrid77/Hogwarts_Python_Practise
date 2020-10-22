@@ -1,3 +1,3 @@
 ### 第一次作业
 
-./game_demo
+./python_practise/game_demo
