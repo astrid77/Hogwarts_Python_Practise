@@ -1,2 +1,4 @@
 /.idea/
-/report/
+/selenium_wechat/.pytest_cache/
+/selenium_wechat/report/
+cookies.db
