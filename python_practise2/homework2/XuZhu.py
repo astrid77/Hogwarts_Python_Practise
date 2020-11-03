@@ -3,7 +3,7 @@
 所以虚竹只有一个read（念经）的方法。每次调用都会打印“罪过罪过”
 加入模块化改造
 """
-from homework.TianshanTL import TongLao
+from python_practise2.homework2.TianshanTL import TongLao
 
 
 class XuZhu(TongLao):
